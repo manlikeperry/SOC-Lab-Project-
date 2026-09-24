@@ -1,3 +1,5 @@
+
+```markdown
 # Home SOC Lab: Attack & Detect
 
 ## Overview
@@ -41,3 +43,4 @@ This project is a full Security Operations Center (SOC) lab built from scratch t
 **Perry Wisdom White**  
 Cybersecurity Analyst | System Engineer  
 [LinkedIn](https://linkedin.com/in/perry-wisdom-white-5ab0a418b)
+```
